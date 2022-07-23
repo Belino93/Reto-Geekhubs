@@ -40,8 +40,7 @@ let resultado = contador(evaluar(cadena));
 
 
 console.log(contadorPalabras(cadena));
-console.log(contador(cadena))
-console.log(contador(evaluar(cadena)))
+console.log(contador(evaluar(cadena)));
 
 
 
